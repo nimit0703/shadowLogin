@@ -55,6 +55,7 @@ body{
     border: none;
     outline: none;
     background: none;
+    width:100%;
     font-size: 26px;
     padding: 20px 10px 20px 5px;
     margin-left: 3px;
@@ -64,7 +65,7 @@ body{
 
 }
 .username ,.password {
-   
+    width:auto;
     margin-bottom: 30px;
     border-radius: 25px;
     box-shadow: inset 8px 8px 8px #cbced1,inset -8px -8px 8px #fff;
